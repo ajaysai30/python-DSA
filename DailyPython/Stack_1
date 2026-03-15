@@ -1,0 +1,7 @@
+Write a Java program to implement Stack using an array. The program should perform the following operations:
+
+Push an element into the stack
+
+Pop an element from the stack
+
+Display the elements of the stack
