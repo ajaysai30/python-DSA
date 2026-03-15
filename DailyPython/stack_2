@@ -1,0 +1,8 @@
+Write a program to check whether the parentheses in an expression are balanced using a Stack.
+
+Example:
+Input: (a+b)*(c+d)
+Output: Balanced
+
+Input: (a+b*(c-d)
+Output: Not Balanced
