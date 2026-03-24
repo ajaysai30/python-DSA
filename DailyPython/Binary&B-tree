@@ -1,0 +1,20 @@
+-------BINARY TREE------
+
+Each node has at most 2 children (left and right)
+Structure is simple and easy to implement
+Not always balanced (can become skewed)
+Used in expression trees, BST, traversals
+Mostly used in main memory (RAM)
+
+---------B-TREE-------
+
+Each node can have multiple children (more than 2)
+Always balanced (all leaves at same level)
+Structure is complex compared to binary tree
+Used in databases and file systems
+Optimized for disk storage and fast searching
+
+--------DIFFERENCES-----
+
+Binary Tree → Max 2 children, simple
+B-Tree → Many children, balanced, used in databases
